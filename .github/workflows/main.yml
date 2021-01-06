@@ -1,7 +1,7 @@
 name: Basic-Schulung
 on:
-    push:
-    workflow_dispatch:
+  push:
+  workflow_dispatch:
 
 jobs:
  build:
