@@ -1,6 +1,5 @@
 name: Basic-Schulung
 on:
-  push:
   workflow_dispatch:
 
 jobs:
